@@ -31,15 +31,6 @@ He trabajado en varios proyectos que pueden ayudarte a conocer más sobre mi tra
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario-github&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📫 ¿Cómo contactarme?
-
-- **Correo electrónico:** [tu-email@example.com](mailto:tu-email@example.com)
-- **LinkedIn:** [tu-linkedin](https://www.linkedin.com/in/tu-linkedin)
-- **Twitter:** [@tu-twitter](https://twitter.com/tu-twitter)
-- **Portafolio Web:** [tu-portafolio](https://www.tu-portafolio.com)
-
----
-
 Gracias por visitar mi perfil. Si estás interesado/a en colaborar o aprender más sobre mis proyectos, no dudes en contactarme. ¡Siempre estoy lista para nuevos desafíos!
 
 
