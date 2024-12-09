@@ -21,7 +21,7 @@ Aquí están algunas de las tecnologías y herramientas que utilizo habitualment
 
 ## 🌐 Proyectos
 
-He trabajado en varios proyectos que pueden ayudarte a conocer más sobre mi trabajo. Aquí te dejo algunos de ellos:
+He trabajado en varios proyectos que pueden ayudarte a conocer más sobre mi trabajo. Aquí te dejo algunos de ellos relacionados con Laravel y php:
 
 - [**Practica_SubirArchivosApp_**](https://github.com/Galat3a/Galat3a-Practica_SubirArchivosApp_.git): 
 - [**Pokemon-Bank_CS**](https://github.com/Galat3a/Pokemon-Bank_CS.git): 
